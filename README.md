@@ -1,83 +1,44 @@
-# 📊 Finance Analytics Project — Nordic Retail Group
+# Finance Analytics Nordic Retail Group
 
-## 🎯 Project Overview
+## Project Overview
 
-This project analyzes the financial performance of Nordic Retail Group to evaluate profitability, operational efficiency, and business risk. Despite strong revenue and gross margins, the company faces challenges in achieving sustainable profitability due to high operating expenses and structural inefficiencies.
+[]
 
----
+## Business Problem
 
-## 📸 Dashboard Preview
+[]
 
-### 🔹 Profitability Dashboard
+## Business Questions
 
-Displays Net Profit trends, Gross Margin, and overall financial performance over time.
-![Profitability Dashboard](images/screenshoots/p&l.png)
+[]
 
----
+## Data Preparation
 
-### 🔹 Operational Dashboard
+[]
 
-Shows the relationship between Revenue and Operating Expenses to evaluate cost efficiency.
-![Operational Dashboard](images/screenshoots/operation.png)
+## Tools
 
----
+[]
 
-### 🔹 Scenario Analysis Dashboard
+## Project Workflow
 
-Compares Actual vs Best Case vs Worst Case to assess business risk and potential outcomes.
-![Scenario Dashboard](images/screenshoots/scenario.png)
+[]
 
----
+## Key Insights
 
-## ❓ Business Problem
+[]
 
-The company is generating consistent revenue but struggling to convert it into profit. Key questions addressed:
+## Deliverables
 
-- Is the company becoming more profitable over time?
-- Are operating expenses aligned with revenue performance?
-- What are the risks under different business scenarios?
+**Dashboard**
 
----
+[]
 
-## 📊 Key Analysis
+**Predictive Analytics**
 
-- **Profitability Analysis** → Net Profit trend and margin evaluation
-- **Operational Analysis** → Revenue vs Operating Expenses efficiency
-- **Store Performance** → Comparison across locations and channels
-- **Scenario Analysis** → Actual vs Best vs Worst case performance
+[]
 
----
 
-## 🔍 Key Insights
+## Author
 
-- Profitability is **stable but not improving significantly**
-- Operating expenses are **consistently high and inefficient**
-- Physical stores outperform e-commerce significantly
-- A **~17% gap to Best Case** indicates structural inefficiencies
-
----
-
-## 🚀 Recommendations
-
-- Optimize operating costs (logistics & marketing)
-- Improve operational efficiency across stores
-- Strengthen underperforming channels (e-commerce)
-- Use scenario-based planning to reduce financial risk
-
----
-
-## 📈 Outcome
-
-This project provides **data-driven insights and actionable strategies** to help the company improve cost efficiency, align operations with revenue, and achieve sustainable profitability.
-
----
-
-## 🛠️ Tools & Technologies
-
-- SQL (data processing)
-- Python (analysis)
-- Power BI (dashboard visualization)
-
----
-
-## 📁 Project Structure
+**Muchammad Wildan Alkautsar** - Data Analyst
